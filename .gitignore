@@ -1,0 +1,9 @@
+.vs
+.vscode
+Client/bin
+Client/obj
+Server/bin
+Server/obj
+Entity/bin
+Entity/obj
+*.dll
